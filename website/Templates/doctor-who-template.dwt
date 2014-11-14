@@ -14,6 +14,7 @@
 <style type="text/css">
 @import url("../styles.css");
 </style>
+<!-- TemplateParam name="Home Page Image" type="boolean" value="true" -->
 </head>
 
 <body>
@@ -75,9 +76,9 @@
       <li><a href="../show-history/originial-series.html">The Original Series </a></li>
       <li><a href="../show-history/1996-revival.html">1996 Film </a></li>
       <li><a href="../show-history/2005-revival.html">2005 Revival </a></li>
+      <li></li>
     </ul>
-    <!-- TemplateEndIf -->
-    <p>&nbsp;</p></td>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Home Page Image']" --><img src="../images/other/doc-who-home.jpg" width="300" height="425" alt="doctor-who"><!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Page Content " -->[Page Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
