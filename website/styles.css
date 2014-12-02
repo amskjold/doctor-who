@@ -52,3 +52,30 @@ td {
 	border-bottom-color: #000;
 	border-left-color: #000;
 }
+.primarynav a:hover {
+	background-color: #154063;
+}
+.contentstuff {
+	list-style-type: disc;
+	padding-right: 30px;
+	padding-left: 30px;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+.primarynav a {
+	background-color: #873A2A;
+	float: left;
+	margin-top: 10px;
+	margin-right: 60px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	display: block;
+	border-radius: 10px;
+	color: #FFF;
+	text-decoration: none;
+}

@@ -84,7 +84,8 @@
       <li></li>
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['home image']" --><img src="../images/other/doc-who-home.jpg" width="300" height="425" alt="doctor who"><!-- TemplateEndIf --></td>
-    <td><!-- TemplateBeginEditable name="Page Content " -->[Page Content]<!-- TemplateEndEditable --></td>
+    <td><!-- TemplateBeginEditable name="Page Content " -->[Page Content]<!-- TemplateEndEditable -->
+    <p>&nbsp;</p></td>
   </tr>
 </table>
 <table class="general-width">
